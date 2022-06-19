@@ -1,0 +1,59 @@
+body{
+    overflow: scroll;
+}
+.container{
+    height: 1200px;
+}
+#menuAndLogo{
+    position:fixed; 
+    padding: 30px;
+
+}
+.row{
+    padding:30px;
+}
+footer{
+    padding: 1px;
+    text-align: center;
+    background-color: brown;
+    color:white;
+    font-style: italic;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pictures{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 50%;
+    padding: 5px;
+}
+h4, h2{
+text-align: center;
+padding-bottom: 20px;
+}
+.km{
+    padding-right: 30px;
+}
+#produkter{
+    background-color: aqua;
+    border-style: solid;
+    border-width: 2px;
+    height: 1200px;
+}
+#kaffeparty{
+    background-color: blueviolet;
+    border-width: 2px;
+    height: 1200px;
+}
+#omoss{
+    border-top: 30px solid brown;
+    background-color: white;
+}
+#kaffe{
+    border: 10px;
+}
